@@ -1,0 +1,14 @@
+# Shell Aliases
+
+# C
+alias ..='cd ..'
+# L
+alias ls='ls --color=auto'
+alias ls='lsd'
+# M
+alias md="mkdir -p"
+# N
+alias n='nvim'
+# S
+alias i='sudo pacman -S'
+alias u='sudo pacman -Syu'
