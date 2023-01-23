@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+## Author : Aditya Shakya (adi1090x)
+## Github : @adi1090x
+
+theme="type-6/space-gate"
+dir="$HOME/.config/rofi/launchers/"
+
+## Run
+rofi \
+    -show drun \
+    -theme ${dir}/${theme}.rasi
